@@ -1,0 +1,6 @@
+framework module Pods_NASAImagesAPITest {
+  umbrella header "Pods-NASAImagesAPITest-umbrella.h"
+
+  export *
+  module * { export * }
+}
